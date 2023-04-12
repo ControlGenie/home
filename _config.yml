@@ -1,0 +1,32 @@
+title: "GrowGenie"
+description: ""
+url: "https://growgenie.io"
+
+github-url: "https://github.com/GrowGenie/home"
+github-branch: "gh-pages"
+
+author:
+  name: Romero Galiza
+  url: https://growgenie.io
+  email: romerojnr@gmail.com
+
+markdown: kramdown
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-timeago
+
+permalink: /:year-:month-:day/:title:output_ext
+paginate: 8
