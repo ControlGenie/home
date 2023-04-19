@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Running picamera2 on Docker"
+title: "Running picamera2 on containers"
 author: "Romero Galiza"
 comments: true
 ---
