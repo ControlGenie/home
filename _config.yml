@@ -1,14 +1,14 @@
-title: "GrowGenie"
+title: "ControlGenie"
 description: ""
-url: "https://growgenie.io"
+url: "https://controlgenie.io"
 
-github-url: "https://github.com/GrowGenie/home"
+github-url: "https://github.com/ControlGenie/home"
 github-branch: "gh-pages"
 
 author:
   name: Romero Galiza
-  url: https://growgenie.io
-  email: romerojnr@gmail.com
+  url: https://controlgenie.io
+  email: controlgenie@proton.me
 
 markdown: kramdown
 
